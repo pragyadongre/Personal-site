@@ -1,0 +1,159 @@
+
+body{
+  color:#40514E;
+
+  margin: 0;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#FFC4C4;
+  border-width: 8px;
+  width: 5%;
+}
+h2{
+  font-weight: normal;
+  font-size: 2.5rem;
+  color:#850E35;
+  padding-bottom: 10px;
+  font-family: "Poppins";
+  font-weight: bold;
+}
+p{
+  font-size: large;
+  line-height: 2;
+  font-family: "Poppins";
+}
+h3{
+  color:#850E35;
+  font-size:20px;
+  font-family: "Poppins";
+}
+a{
+  color:#EE6983;
+  font-family: "Poppins";
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#FFB3B3;
+}
+.cloud{
+  position:absolute;
+  width:270px;
+  left:150px;
+  top:30px;
+}
+.chota-cloud{
+  position: absolute;
+  width:200px;
+  left:900px;
+  top:200px;
+}
+.pink1{
+  position: absolute;
+  width: 1516px;
+  bottom: 1px;
+}
+.copyright{
+  color:#FFB3B3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.name{
+  position: absolute;
+  left:500px;
+  top: 0px;
+  font-size: 70px;
+  color: #850E35;
+  font-family: "Mali";
+  line-height: 1;
+}
+.web-designer{
+  position: absolute;
+  left:810px;
+  top:120px;
+  font-size: 25px;
+  color: #850E35;
+  font-family: "Mali";
+}
+.top-section{
+  height:750px;
+  background-color: #FFC4C4;
+}
+.girl{
+
+    width:15%;
+
+}
+.signature{
+    width:15%;
+    float:left;
+    margin-right: 30px;
+    left:50p
+}
+.web-design{
+  width:15%;
+  float:right;
+  margin-right: 30px;
+
+}
+
+.profile{
+  margin: 100px;
+}
+
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+.contact-msg,  .h3{
+  width:40%;
+  margin: 20px auto 40px;
+}
+.bottom-container{
+  background-color:#850E35;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  background: #FFC4C4;
+  background-image: -webkit-linear-gradient(top, #FFC4C4, #EE6983);
+  background-image: -moz-linear-gradient(top, #FFC4C4, #EE6983);
+  background-image: -ms-linear-gradient(top, #FFC4C4, #EE6983);
+  background-image: -o-linear-gradient(top, #FFC4C4, #EE6983);
+  background-image: linear-gradient(to bottom, #FFC4C4, #EE6983);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Poppins";
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FFB3B3;
+  background-image: -webkit-linear-gradient(top, #FFB3B3, #FFB3B3);
+  background-image: -moz-linear-gradient(top, #FFB3B3, #FFB3B3);
+  background-image: -ms-linear-gradient(top, #FFB3B3, #FFB3B3);
+  background-image: -o-linear-gradient(top, #FFB3B3, #FFB3B3);
+  background-image: linear-gradient(top bottom, #FFB3B3, #FFB3B3);
+  text-decoration: none;
+  font-family: "Poppins";
+  color: #ffffff;
+}
+.myskills, .h2{
+  text-align: center;
+}
